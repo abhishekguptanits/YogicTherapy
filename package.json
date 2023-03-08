@@ -1,0 +1,28 @@
+{
+  "name": "yogic-therapy",
+  "version": "1.0.0",
+  "description": "A page where people can find best yoga therapy for their health problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekguptanits/YogicTherapy.git"
+  },
+  "keywords": [
+    "yoga",
+    "disease",
+    "therapy",
+    "healt"
+  ],
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekguptanits/YogicTherapy/issues"
+  },
+  "homepage": "https://github.com/abhishekguptanits/YogicTherapy#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
